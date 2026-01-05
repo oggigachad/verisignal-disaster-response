@@ -63,28 +63,19 @@ Download the fine-tuned sentiment analysis models:
 - ✅ Frontend React components
 
 ```
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/sentiment-analysis.git
-   cd sentiment-analysis
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Download NLTK data**
+2. **Download NLTK data**
    ```python
    import nltk
    nltk.download('vader_lexicon')
    nltk.download('punkt')
    ```
 
-4. **Run the notebook**
+3. **Run the notebook**
    ```bash
    jupyter notebook first.ipynb
    ```
@@ -412,10 +403,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter)
+**Your Name** - Aakash Sarang
 
-Project Link: [https://github.com/yourusername/sentiment-analysis](https://github.com/yourusername/sentiment-analysis)
-
+Project Link: (https://drive.google.com/file/d/198fSmYiZEuG-p6bjG5Z6F4JhZHGKGWvO/view?usp=sharing)
+Project Link: (https://drive.google.com/file/d/198fSmYiZEuG-p6bjG5Z6F4JhZHGKGWvO/view?usp=sharing)
 ---
 
 <div align="center">
@@ -424,7 +415,6 @@ Project Link: [https://github.com/yourusername/sentiment-analysis](https://githu
 
 **Made with ❤️ and Python**
 
-[⬆ Back to Top](#-sentiment-analysis-with-deep-learning)
 
 </div>
 
