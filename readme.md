@@ -16,7 +16,7 @@
 
 ## 📖 Overview
 
-This project implements **advanced sentiment analysis** using multiple state-of-the-art NLP models, comparing traditional rule-based approaches with modern deep learning transformers. Analyze Reddit comments, tweets, reviews, or any text data with **93%+ accuracy** after fine-tuning!
+This project implements **advanced sentiment analysis** using multiple state-of-the-art NLP models, comparing traditional rule-based approaches with modern deep learning transformers. Analyze Reddit comments, tweets, reviews, or any text data with **95%+ accuracy** after fine-tuning!
 
 ### ✨ Highlights
 
